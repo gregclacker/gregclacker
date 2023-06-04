@@ -1,16 +1,13 @@
 ### Hi there 👋
+- 🔭 I’m currently working on creating a website not fatialy depident on cloud services
+- 🌱 I’m currently learning HTML, JS, PHP, & web dev in general
+- 🤔 I’m looking for help with what I'm learning.
+- 👯 I’m looking to collaborate on ... anything!
+- 💬 Ask me about ... (^diddo)
+- 📫 [reach me here](https://gregclacker.github.io/)
 
-<!--
-**gregclacker/gregclacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+    <summary>GitHub Stats</summary>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gregclacker&custom_title=GitHub%20stats&hide_border=true&theme=transparent&show_icons=true" alt="george boone github stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregclacker&layout=compact&theme=transparent&hide_border=true" alt="most used languages on github">
+</detials>
