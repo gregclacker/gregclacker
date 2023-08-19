@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on creating a website not fatialy depident on cloud services
+- 🔭 I’m currently working on creating a website with apache
 - 🌱 I’m currently learning HTML, JS, PHP, & web dev in general
 - 🤔 I’m looking for help with what I'm learning.
 - 👯 I’m looking to collaborate on ... anything!
